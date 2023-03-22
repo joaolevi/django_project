@@ -1,2 +1,2 @@
-# django_project
-This repository is to save a project in Django
+# Django Project
+A single django project to learn and exercise the technology
